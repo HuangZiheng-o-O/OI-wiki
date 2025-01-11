@@ -14,6 +14,7 @@ edit_uri: 'https://oi-wiki.org/edit-landing/?ref='
 copyright: 'Copyright &copy; 2016 - 2024 OI Wiki Team'
 
 # Contents
+
 nav:
   - 简介:
     - Getting Started: index.md
@@ -25,6 +26,28 @@ nav:
     - F.A.Q.: intro/faq.md
     - 镜像站列表: intro/mirrors.md
     - 致谢: intro/thanks.md
+  - 代码模板:
+    - cpp stl:
+      - GPT-LeetCode中常见的算法模板和范式: code_template/cpp stl/GPT-LeetCode中常见的算法模板和范式.md
+      - deque: code_template/cpp stl/deque.md
+      - stdarray: code_template/cpp stl/stdarray.md
+      - stdvector: code_template/cpp stl/stdvector.md
+      - 总结：STL 包含的全部容器: code_template/cpp stl/总结：STL 包含的全部容器.md
+    - cpp杂项:
+      - 右值引用和移动语义: code_template/cpp杂项/右值引用和移动语义.md
+    - trie:
+      - trie: code_template/trie.md
+    - 其他:
+      - 人类友好排序: code_template/其他/人类友好排序.md
+      - 理解空指针异常: code_template/其他/理解空指针异常.md
+    - acwing:
+      - 单调队列和滑动窗口: code_template/单调队列和滑动窗口.md
+      - 常用代码模板1-原版: code_template/常用代码模板1-原版.md
+      - 常用代码模板1-讲解: code_template/常用代码模板1-讲解.md
+      - 常用代码模板1: code_template/常用代码模板1.md
+      - 常用代码模板2: code_template/常用代码模板2.md
+      - 常用代码模板3——搜索与图论: code_template/常用代码模板3——搜索与图论.md
+      - 常用代码模板4——数学知识: code_template/常用代码模板4——数学知识.md
   - 比赛相关:
     - 比赛相关简介: contest/index.md
     - 赛事:
